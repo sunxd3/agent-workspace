@@ -2,3 +2,4 @@
 *.local.*
 *.log
 setup.sh
+DynamicPPL.jl/
